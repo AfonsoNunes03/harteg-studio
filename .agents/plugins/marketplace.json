@@ -1,0 +1,20 @@
+{
+  "name": "harteg-studio-marketplace",
+  "interface": {
+    "displayName": "Harteg Studio"
+  },
+  "plugins": [
+    {
+      "name": "harteg-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/harteg-studio"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

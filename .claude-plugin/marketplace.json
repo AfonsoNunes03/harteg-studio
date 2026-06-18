@@ -1,0 +1,30 @@
+{
+  "name": "harteg-studio-marketplace",
+  "owner": {
+    "name": "Harteg",
+    "email": "afonso.alexandrenunes@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "harteg-studio",
+      "source": "./plugins/harteg-studio",
+      "description": "Cria carrosseis de Instagram prontos a publicar e entrega um editor visual (Harteg Studio) ja preenchido: tipografia, destaque de palavra, imagem de fundo, sombra/overlay, cantos editaveis, logotipo e exportacao em ZIP.",
+      "version": "1.9.2",
+      "author": {
+        "name": "Afonso Nunes",
+        "email": "afonso.alexandrenunes@gmail.com"
+      },
+      "homepage": "https://github.com/AfonsoNunes03/harteg-studio",
+      "license": "MIT",
+      "keywords": [
+        "instagram",
+        "carrossel",
+        "carousel",
+        "design",
+        "marketing",
+        "social-media"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
